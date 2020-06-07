@@ -1,6 +1,6 @@
 # Coronavirus US Projections
 
-This project was built to project coronavirus infections and deaths in the United States. The projections were built using the SEIR model found in *Prediction of New Coronavirus Infection Based on a
+This project was built to project coronavirus infections and deaths in the United States. The projections were built using the modified SEIR model found in *Prediction of New Coronavirus Infection Based on a
 Modified SEIR Model* by Zhou Tang, Xianbin Li, and Houqiang Li.
 
 The projections operate on a state-by-state basis, with no travel between states included in the model. This simplifies the model but makes the projections a bit more inaccurate. Travel between states will likely need to be included at a future point in time.
