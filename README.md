@@ -1,6 +1,6 @@
 # Coronavirus US Projections
 
-This project was built to project coronavirus infections and deaths in the United States. The projections were built using the modified SEIR model found in *Epidemic Analysis of COVID-19 in China by Dynamical Modeling* by Peng et al.
+This project was built to project coronavirus infections and deaths in the United States. The projections were built using the extended SEIR model found in *Epidemic Analysis of COVID-19 in China by Dynamical Modeling* by Peng et al.
 
 The projections operate on a state-by-state basis, with no travel between states included in the model. This simplifies the model but makes the projections a bit more inaccurate. Travel between states will likely need to be included at a future point in time.
 
